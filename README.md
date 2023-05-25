@@ -1,3 +1,4 @@
+<!--
 <a href="URL_REDIRECT" target="blank"><img align="" src="https://user-images.githubusercontent.com/66886118/160284414-df1f0cc7-6820-446f-880f-4ef7773908d9.gif" height="100" /></a>  
 ### Hi there my name is Gilfoyle ✨
 - Computer Engineering student.
@@ -5,6 +6,7 @@
 - Chess player.
 - Good friend.
 -->
+<!--
 **devhindo/devhindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,5 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
